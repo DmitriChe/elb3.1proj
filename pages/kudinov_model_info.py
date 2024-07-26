@@ -36,7 +36,7 @@ col = st.columns(3)
 with col[0]:
     st.metric('Beta', 3)
 with col[1]:
-    st.metric('Threshold', 0.0017)
+    st.metric('Threshold', 0.022)
 with col[2]:
     st.metric('Maximum F-beta', 0.95)
 

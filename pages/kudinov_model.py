@@ -10,7 +10,7 @@ from torchvision import transforms as T
 import zipfile
 import time
 
-TRESHOLD = 0.001721094478853047
+TRESHOLD = 0.022721094478853047
 idx2class = {0: 'Доброкачественная', 1: 'Злокачественная'}
 
 
