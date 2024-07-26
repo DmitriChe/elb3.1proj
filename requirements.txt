@@ -1,6 +1,5 @@
 Pillow==10.4.0
 Requests==2.32.3
 streamlit==1.32.0
-torch==2.4.0
+torch==2.2.2
 torchvision==0.17.2
-
