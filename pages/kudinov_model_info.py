@@ -18,6 +18,7 @@ st.divider()
 
 st.subheader('Глава 2. Изучение метрик')
 st.image('images/rocauc.png')
+st.image('images/conf_old.png')
 col = st.columns(4)
 
 with col[0]:
