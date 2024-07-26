@@ -5,7 +5,7 @@ import streamlit as st
 import requests
 from io import BytesIO
 from torchvision import io
-from PIL import Image, UnidentifiedImageError
+from PIL import Image
 from torchvision import transforms as T
 import zipfile
 import time
